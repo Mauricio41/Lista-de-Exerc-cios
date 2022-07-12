@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    int z,x,a,b,m,n,w,y,a1,b1,c;
+    int z,x,a,b;
     int m1[3][5],soma[3];
    
     printf("\tSoma do Vetor:\n");
